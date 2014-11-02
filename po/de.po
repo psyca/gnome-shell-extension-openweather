@@ -28,7 +28,7 @@ msgstr "Wetterdaten zur Verfügung gestellt von:   "
 #: ../src/extension.js:259
 #, python-format
 msgid "Can not open %s"
-msgstr "Kann %s nocht öffnen"
+msgstr "Kann %s nicht öffnen"
 
 #: ../src/extension.js:347
 #, python-format
